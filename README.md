@@ -9,6 +9,8 @@
 
 Welcome to my Github page! I am a server development engineer currently working in Beijing, China.
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=coolkes&show_icons=true&hide_border=true" />
+
 #### 🌱 Things I am currently working on: 
 - Working on Java development.
 - Learn Go and Python languages.
@@ -24,7 +26,3 @@ Welcome to my Github page! I am a server development engineer currently working 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
----
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=coolkes&show_icons=true&hide_border=true" />
