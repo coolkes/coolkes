@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/coolkes)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iopanjing@gmail.com)
 
-Welcome to my Github page! I am a server development engineer currently working in Beijing, China.
+Welcome to my Github page! I am a server development engineer currently working in Hangzhou, China.
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=coolkes&show_icons=true&hide_border=true" />
 
@@ -23,7 +23,6 @@ Welcome to my Github page! I am a server development engineer currently working 
 #### 💻 Programming languages and tools: 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
